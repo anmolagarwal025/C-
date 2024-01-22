@@ -1,0 +1,10 @@
+D:\C#_files\Simple_WebBroswer\bin\Debug\Simple_WebBroswer.exe.config
+D:\C#_files\Simple_WebBroswer\bin\Debug\Simple_WebBroswer.exe
+D:\C#_files\Simple_WebBroswer\bin\Debug\Simple_WebBroswer.pdb
+D:\C#_files\Simple_WebBroswer\obj\Debug\Simple_WebBroswer.csproj.AssemblyReference.cache
+D:\C#_files\Simple_WebBroswer\obj\Debug\Simple_WebBroswer.Properties.Resources.resources
+D:\C#_files\Simple_WebBroswer\obj\Debug\Simple_WebBroswer.csproj.GenerateResource.cache
+D:\C#_files\Simple_WebBroswer\obj\Debug\Simple_WebBroswer.csproj.CoreCompileInputs.cache
+D:\C#_files\Simple_WebBroswer\obj\Debug\Simple_WebBroswer.exe
+D:\C#_files\Simple_WebBroswer\obj\Debug\Simple_WebBroswer.pdb
+D:\C#_files\Simple_WebBroswer\obj\Debug\Simple_WebBroswer.Form1.resources

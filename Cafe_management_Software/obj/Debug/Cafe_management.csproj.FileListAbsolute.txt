@@ -1,0 +1,14 @@
+D:\C#_files\Cafe_management\bin\Debug\Cafe_management.exe.config
+D:\C#_files\Cafe_management\bin\Debug\Cafe_management.exe
+D:\C#_files\Cafe_management\bin\Debug\Cafe_management.pdb
+D:\C#_files\Cafe_management\obj\Debug\Cafe_management.csproj.AssemblyReference.cache
+D:\C#_files\Cafe_management\obj\Debug\Cafe_management.Form1.resources
+D:\C#_files\Cafe_management\obj\Debug\Cafe_management.Properties.Resources.resources
+D:\C#_files\Cafe_management\obj\Debug\Cafe_management.csproj.GenerateResource.cache
+D:\C#_files\Cafe_management\obj\Debug\Cafe_management.csproj.CoreCompileInputs.cache
+D:\C#_files\Cafe_management\obj\Debug\Cafe_management.exe
+D:\C#_files\Cafe_management\obj\Debug\Cafe_management.pdb
+D:\C#_files\Cafe_management\obj\Debug\Cafe_management.GuestOrder.resources
+D:\C#_files\Cafe_management\obj\Debug\Cafe_management.UserOrder.resources
+D:\C#_files\Cafe_management\obj\Debug\Cafe_management.ItemsForm.resources
+D:\C#_files\Cafe_management\obj\Debug\Cafe_management.UsersForm.resources
